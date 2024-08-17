@@ -48,3 +48,18 @@ Be in progress / first author
 TopoDDPM is divided into two phases, the first stage is to use topological features as shape latent variables to establish a probabilistic diffusion model for point cloud generation. The second stage is to establish a probabilistic diffusion model for topological feature generation.
 </p>
 
+## Awards and Honors
+- National Graduate Mathematical Modeling Competition, Second Prize
+- National Undergraduate Mathematical Modeling Competition, Second Prize
+- American Undergraduate Mathematical Modeling Competition, Second Prize
+- Guangdong University of Technology Top Ten Youth
+- Alpha Excellent Student Scholarship
+
+## Skills
+- Solid foundation in mathematics and data modeling
+- Proficient in 3D point cloud deep learning models and generative models (GAN, VAE, DDPM, LDM, DiT)
+- Experienced with discriminative models (PointMLP, Point Transformer, PointNet/PointNet++, Transformer, CNN)
+- Proficient in Python and Pytorch deep learning framework
+- Familiar with NLP and CV models (GPT, Bert, ViT) and multimodal models (CLIP, OpenFlamingo, Stable Diffusion, LLaVA)
+- Strong English proficiency (CET-4, CET-6), currently preparing for IELTS
+
