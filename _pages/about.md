@@ -44,7 +44,7 @@ DiT-3D, a pioneer of diffusion transformer architecture for 3D shape generation,
 #### 📃 TopoDDPM: Diffusion Probabilistic Models using Persistent Homology for 3D Point Cloud Generation
 Be in progress / first author
 <p>    
-<img src="../images/topoddpm.PNG" width="400"  align="left" />
+<img src="../images/topoddpm.PNG" width="100"  align="left" />
 TopoDDPM is divided into two phases, the first stage is to use topological features as shape latent variables to establish a probabilistic diffusion model for point cloud generation. The second stage is to establish a probabilistic diffusion model for topological feature generation.
 </p>
 
